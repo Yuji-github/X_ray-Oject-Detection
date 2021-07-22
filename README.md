@@ -12,8 +12,8 @@ Uploaded extracted folder (output) on Google Drive <br>
 
 <br>
 Google Colab: <br>
-1: CopyFiles
-2: Slim_yolo 1
-3: Slim_yolo 2
-4: Separate_Data
+1: CopyFiles <br>
+2: Slim_yolo 1 <br>
+3: Slim_yolo 2 <br>
+4: Separate_Data <br>
 5: Slim_Detection
