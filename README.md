@@ -1,6 +1,6 @@
-# X_ray-Oject-Detection
+# X_ray-Oject-Detection with YOLO <br>
 This data sets are form Kaggle (over 100GB) <br>
-The codes need to run on Kaggle and Google Colab
+The codes need to run on Kaggle and Google Colab respectively
 <br>
 Kaggle Section: <br>
 1: Connatenate <br>
@@ -12,4 +12,8 @@ Uploaded extracted folder (output) on Google Drive <br>
 
 <br>
 Google Colab: <br>
-1: 
+1: CopyFiles
+2: Slim_yolo 1
+3: Slim_yolo 2
+4: Separate_Data
+5: Slim_Detection
