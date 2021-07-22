@@ -4,4 +4,9 @@ The codes need to run on Kaggle and Google Colab
 <br>
 Kaggle Section: <br>
 1: Connatenate <br>
-2: 
+2: Image_Resize <br>
+3: Bounding_Box <br>
+<br>
+
+Google Colab: <br>
+1: 
