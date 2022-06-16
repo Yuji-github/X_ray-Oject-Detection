@@ -1,4 +1,4 @@
-# X_ray-Oject-Detection with YOLO <br>
+# X_ray-Object-Detection with YOLO <br>
 This data sets are form Kaggle (over 100GB) <br>
 The codes need to run on Kaggle and Google Colab respectively
 
