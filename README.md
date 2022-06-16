@@ -8,7 +8,7 @@ Kaggle Section: <br>
 2: Image_Resize <br>
 3: Bounding_Box <br>
 <br>
-PLease Extreact the zipped dataset in local compputer. <br>
+Please Extreact the zipped dataset in local compputer. <br>
 Uploaded extracted folder (output) on Google Drive <br>
 
 <br>
